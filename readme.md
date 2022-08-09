@@ -21,5 +21,6 @@ This program contains free and open source software
 under several licenses, including the MIT license and GNU Lesser General
 Public. The full list of licenses, including links to the full source code,
 can be found here.
+
 ![изображение_2022-08-09_144633105](https://user-images.githubusercontent.com/81814508/183629827-e13cf7ee-a12f-49f5-a0d1-1bebaae8aa15.png)
 
