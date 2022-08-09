@@ -22,3 +22,10 @@ One thing is clear, in some of the cycles there was a failure, which means that 
  
  [Git hub](https://github.com/Frilm/Last-shift/releases/tag/alpha)
  
+ <div align="center">
+ 
+<h1>Contact</h1>
+  
+  [Stabidi Youtube](https://www.youtube.com/channel/UCexOtSH02mPTEOZJDjZI9gg/videos)
+  
+  [Discord Server](https://discord.gg/cG4HKNUAZc)
