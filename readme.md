@@ -1,4 +1,7 @@
-about the game
+<div align="center">
+
+![window_icon](https://user-images.githubusercontent.com/81814508/183629801-fd737635-d340-420f-b365-d0648527532e.png)
+
 Version 0.1
 Welcome! Welcome to the first game in a series of official
 modifications to the plot of the Electron camp
@@ -18,3 +21,5 @@ This program contains free and open source software
 under several licenses, including the MIT license and GNU Lesser General
 Public. The full list of licenses, including links to the full source code,
 can be found here.
+![изображение_2022-08-09_144633105](https://user-images.githubusercontent.com/81814508/183629827-e13cf7ee-a12f-49f5-a0d1-1bebaae8aa15.png)
+
