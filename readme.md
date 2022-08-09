@@ -2,7 +2,9 @@
 
 ![window_icon](https://user-images.githubusercontent.com/81814508/183629801-fd737635-d340-420f-b365-d0648527532e.png)
 
-Version 0.1
+ <h1>Last Shift</h1>
+ 
+ Version 0.1
 
 Welcome! Welcome to the first game in a series of official modifications to the plot of the camp "Electron"
 
