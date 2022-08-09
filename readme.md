@@ -1,3 +1,4 @@
+about the game
 Version 0.1
 Welcome! Welcome to the first game in a series of official
 modifications to the plot of the Electron camp
