@@ -18,4 +18,7 @@ One thing is clear, in some of the cycles there was a failure, which means that 
 
  <h1>Download</h1>
  
+ [Yandex disk](https://yadi.sk/d/MV4Zcs3HhcMkHQ)
+ 
+ [Git hub](https://github.com/Frilm/Last-shift/releases/tag/alpha)
  
