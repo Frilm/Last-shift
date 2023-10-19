@@ -20,7 +20,7 @@ One thing is clear, in some of the cycles there was a failure, which means that 
  
  [Yandex disk](https://yadi.sk/d/MV4Zcs3HhcMkHQ)
  
- [Git hub](https://github.com/Frilm/Last-shift/releases/tag/alpha)
+ [Github](https://github.com/Frilm/Last-shift/releases/tag/alpha)
  
  <div align="center">
  
